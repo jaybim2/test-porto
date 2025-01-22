@@ -11,6 +11,10 @@ body {
     color: #333; /* Mengubah warna menjadi abu-abu gelap */
   }
 
+#about h1 {
+    color: #ffffff; /* Mengubah warna menjadi abu-abu gelap */
+  }
+
 .jumbotron {
     padding-top: 6rem;
     background-color: #f5f5dc;
